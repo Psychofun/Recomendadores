@@ -1,7 +1,7 @@
 # Recomendadores
 Varios sistemas recomendadores
 
-# Checha el vídeo en Youtube
+## Checha el vídeo en Youtube
 https://youtu.be/758OSEpmJJ8
 
 ## Conjuntos de Datos
